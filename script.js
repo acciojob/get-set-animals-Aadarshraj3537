@@ -1,4 +1,3 @@
-// Define the Animal class
 class Animal {
   constructor(species) {
     this.species = species;
